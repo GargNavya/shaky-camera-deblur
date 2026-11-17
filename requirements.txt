@@ -1,0 +1,7 @@
+numpy
+scipy
+scikit-image
+matplotlib
+pillow
+torch        # step 7 (NAFNet); install the CUDA build for your GPU from pytorch.org
+gdown        # step 7, downloads the NAFNet weights
